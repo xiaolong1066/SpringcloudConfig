@@ -2,7 +2,7 @@ package main;
 
 public class demo {
     public static void main(String[] args) {
-        System.out.println("dev");
-        System.out.println("master");
+
+        System.out.println("最新版本");
     }
 }
